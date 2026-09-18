@@ -61,10 +61,9 @@ const reportNarrative = {
  ]
 };
 const narrativeHTML=key=>reportNarrative[key].map(p=>`<p>${p}</p>`).join('');
-const reportSource=page=>`<a class="source-link" href="report.pdf#page=${page}" target="_blank">Report · p. ${page} ↗</a>`;
 function updateLimitNarrative(kind){
  const story=$('#limits-content .finding-story');
- story.innerHTML=narrativeHTML(kind)+reportSource(6);
+ story.innerHTML=narrativeHTML(kind);
  story.classList.add('report-prose');
 }
 function updateCaseNarrative(){
@@ -76,7 +75,6 @@ function updateCaseNarrative(){
  const insight=$('#case-content .case-insight');
  insight.querySelector('p').remove();
  insight.insertAdjacentHTML('afterbegin',activeCase==='icl'?narrativeHTML('iclSummary'):'<p>Astra’s grasp revision and goal recovery, and the specialized policies’ more accurate fine manipulation, point to complementary capabilities. A future system needs both a way to reconsider what remains to be done and a way to carry out the required contact reliably.</p>');
- insight.insertAdjacentHTML('beforeend',reportSource(activeCase==='icl'?9:10));
 }
 function updateBehaviorNarrative(key){
  const story=$('#behavior-content .behavior-evidence>div');
@@ -89,11 +87,11 @@ function updateBehaviorNarrative(key){
   return;
  }
  trace.insertAdjacentHTML('beforeend',`<dt>Historical demonstration</dt><dd>${key==='coffee'?'“With the right hand, grasp the spoon handle, lift it out of its holder, and sweep the beans toward the jar.”':'“The left hand then carries and releases each fruit into the large pale jug.”'}</dd>`);
- story.insertAdjacentHTML('beforeend',narrativeHTML(key)+reportSource(key==='coffee'?7:8));
+ story.insertAdjacentHTML('beforeend',narrativeHTML(key));
 }
 function initNarrative(){
  document.querySelectorAll('[data-narrative]').forEach(el=>el.innerHTML=narrativeHTML(el.dataset.narrative));
- $('#mobile-content .finding-story').innerHTML=narrativeHTML('mobile')+reportSource(5);
+ $('#mobile-content .finding-story').innerHTML=narrativeHTML('mobile');
  $('#mobile-content .finding-story').classList.add('report-prose');
  $('#mobile-content').insertAdjacentHTML('beforeend',`<div class="report-prose shift-analysis"><h3>Robustness to changed scenes is not unseen-task composition</h3>${narrativeHTML('shifts')}<button class="appendix-link" data-appendix="generalization">Compare the four perturbation settings ↗</button></div>`);
  const library=$('#video-library');
