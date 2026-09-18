@@ -58,8 +58,15 @@ main p:not(.eyebrow):not(.fineprint):not(.figure-caption){color:#455570}
 @media(max-width:900px){.finding-grid,.behavior-evidence{display:block}.finding-grid .report-chart,.behavior-evidence>.evidence-video{position:static;margin-top:26px}.behavior-evidence{max-width:800px}}
 @media(max-width:760px){.report-prose,#conclusion .report-prose p{font-size:15px;line-height:1.85}.report-prose h3{font-size:20px}.finding-grid>.finding-story>p{font-size:15px}.findings-opening h2,#setup h2{font-size:28px}.research-questions>a{gap:14px}.research-questions strong{font-size:16px}.research-questions p{font-size:13px}.video-collection>summary{padding:20px 16px;gap:12px}.video-collection>summary strong{font-size:17px}.video-collection>summary small{font-size:11px}.collection-icon{width:36px;height:36px;font-size:20px}.collection-body{padding:20px 15px}.behavior-tabs{gap:24px}.behavior-tabs button{font-size:11px}.behavior-evidence p{font-size:15px}}
 
-.result-summary>.eyebrow{text-transform:none;letter-spacing:.02em;font-size:11px;line-height:1.7}
-.result-summary .finding-metric{display:grid;grid-template-columns:max-content max-content;align-items:baseline;gap:8px 12px}
-.result-summary .finding-metric .inline-score{font-size:12px;color:#71829b;white-space:nowrap}
-.result-summary .finding-metric .inline-score b{font-weight:500;color:#4d6486}
-.result-summary .finding-metric p{grid-column:1/-1;margin:0}
+/* One typographic group: label, primary rate, secondary score. */
+.result-summary>.eyebrow{font-size:12px;line-height:1.65;letter-spacing:0;text-transform:none;color:#445875;margin-bottom:25px;max-width:270px}
+.overall-metric{margin:0 0 25px;padding:0}
+main .overall-metric .metric-label{font-size:12px;line-height:1.5;letter-spacing:.01em;color:#6b7a92;margin:0 0 10px}
+.metric-values{display:flex;align-items:baseline;gap:18px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.metric-success{font-family:"Segoe UI",Arial,sans-serif;font-size:44px;font-weight:550;line-height:1;letter-spacing:-1.6px;color:#3456ef}
+.metric-success>span{font-size:25px;font-weight:450;letter-spacing:0;margin-left:3px}
+.metric-score{display:inline-flex;align-items:baseline;gap:7px;border-left:1px solid #dce3ef;padding-left:17px;font-size:14px;line-height:1;color:#6b7a92}
+.metric-score b{font-size:16px;font-weight:500;color:#344963;letter-spacing:-.2px}
+.explorer-links>a{border-bottom:1px solid #dce5f4;font-size:12px;padding:5px 0;color:#718bb6;display:flex;gap:15px}
+.method-details>a{font-size:12px;color:#536fab;line-height:1.8}.method-details{flex-wrap:wrap;gap:12px 24px}
+@media(max-width:760px){.result-summary>.eyebrow{max-width:330px;margin-bottom:22px}.metric-success{font-size:42px}.metric-success>span{font-size:24px}.metric-values{gap:16px}.metric-score{padding-left:15px}.explorer-links>a{font-size:11px}}
