@@ -15,7 +15,7 @@ This is a dependency-free static site. `dist/` contains the authored website sou
 
 ## Current agreed presentation
 
-Light main reading areas, dark navigation/footer accents, restrained stars only in the masthead. Avoid turning each finding or chart into a card. Overall performance is the first main section. The masthead includes all authors and affiliations from the preserved report layout, a working Evaluation Entrance, current PDF, and disabled arXiv Coming soon button. The arXiv URL does not exist yet.
+Light main reading areas, dark navigation/footer accents, restrained stars only in the masthead. Avoid turning each finding or chart into a card. Overall performance is the first main section. The author removed the redundant 46.73% / 2 of 8 / 26 tasks / 510 episodes masthead summary strip; do not reintroduce it. The masthead includes all authors and affiliations from the preserved report layout, a working Evaluation Entrance, current PDF, and disabled arXiv Coming soon button. The arXiv URL does not exist yet.
 
 The main benchmark table has three views: overall/task attributes, all 26 tasks, and distribution shifts. It includes all eight current systems, with shared absolute color scales, rounded heat cells, SR/Score switching and task sorting/filtering. Screenshot references supplied by the author are visual references only; their old model cohorts and numbers must not replace current data.
 
