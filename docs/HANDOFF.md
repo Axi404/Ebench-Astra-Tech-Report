@@ -16,6 +16,8 @@ This is a dependency-free static site. `dist/` contains the authored website sou
 
 ## Current agreed presentation
 
+The masthead brand is **InterRobotics**. All user-facing model mentions use **GPT-6-Astra**, including charts, tables, controls and video captions. Canonical data key `Astra (ICL)` and existing asset filenames remain unchanged; normalize display labels rather than renaming source fields.
+
 The latest author direction prioritizes three research questions: Astra versus VLA/WAM capability differences, failure patterns and research implications, and exploration/correction/within-episode experience use. Present dataset results before analysis. Do not compress the report into slogans or restore it verbatim; preserve explanatory substance and connect claims to evidence. The 26-task rollout library is one collapsed case card, not a standalone benchmark-promotion section. Chart colors are blue/indigo/cool gray; mustard, olive and salmon were explicitly rejected.
 
 Light main reading areas, dark navigation/footer accents, restrained stars only in the masthead. Avoid turning each finding or chart into a card. Overall performance is the first main section. The author removed the redundant 46.73% / 2 of 8 / 26 tasks / 510 episodes masthead summary strip; do not reintroduce it. The masthead includes all authors and affiliations from the preserved report layout, a working Evaluation Entrance and disabled arXiv Coming soon button. The arXiv URL does not exist yet. The author asked to withdraw the unfinished current PDF from the page: do not add PDF download buttons, page citations linking to it, or PDF links in supplementary dialogs. Keep the source draft for internal reference.
