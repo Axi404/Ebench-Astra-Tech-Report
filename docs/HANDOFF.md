@@ -8,12 +8,15 @@ This is a dependency-free static site. `dist/` contains the authored website sou
 - `dist/showcase.css`: current light report design and responsive overrides.
 - `dist/style.css`: shared original chart, table, dialog and video primitives.
 - `dist/app.js`: report narrative, main findings, case tabs, videos, supplementary dialogs.
+- `dist/narrative.js`: source-grounded analytical synthesis; see `docs/REPORT-COPY.md` for the editorial brief and source map.
 - `dist/charts.js`: SVG bar charts, metric/model selection, sortable task heatmap.
 - `dist/showcase.js`: featured demo switching, case focus, stage controls, decorative canvas.
 - `dist/research.js`: main-page comparison matrices, POC, behavioral evidence, episode dots, video library.
 - `dist/data/`: chart/table data and selected-episode metadata. Raw field ID `FastWAM` remains stable; visible name is **Fast-WAM**.
 
 ## Current agreed presentation
+
+The latest author direction prioritizes three research questions: Astra versus VLA/WAM capability differences, failure patterns and research implications, and exploration/correction/within-episode experience use. Present dataset results before analysis. Do not compress the report into slogans or restore it verbatim; preserve explanatory substance and connect claims to evidence. The 26-task rollout library is one collapsed case card, not a standalone benchmark-promotion section. Chart colors are blue/indigo/cool gray; mustard, olive and salmon were explicitly rejected.
 
 Light main reading areas, dark navigation/footer accents, restrained stars only in the masthead. Avoid turning each finding or chart into a card. Overall performance is the first main section. The author removed the redundant 46.73% / 2 of 8 / 26 tasks / 510 episodes masthead summary strip; do not reintroduce it. The masthead includes all authors and affiliations from the preserved report layout, a working Evaluation Entrance, current PDF, and disabled arXiv Coming soon button. The arXiv URL does not exist yet.
 
@@ -27,6 +30,7 @@ The main benchmark table has three views: overall/task attributes, all 26 tasks,
 - `report-figures.json` provides report-level rounded aggregates. `tasks.json` provides the retained task values. `episodes.json` contains only task, seed, SR, Score for the 510 retained episodes. `report-SOURCE_MAP.json` records supplied source hashes.
 - The main library covers all 26 tasks via 27 supplied demos (one extra peg example); selected video frequency is not a success estimate.
 - Coffee-beans episode 013 and fruit episode 015 are extracted from the full video archive and transcoded to browser-compatible H.264. Captions follow the PDF, not inferred hidden reasoning. Public action descriptions are quotes from the supplied report.
+- Apple-to-fruit-bowl episode 006 adds a successful exploration/recovery example. Three public action notes link detection of a slip, obtaining a wider view, and changing the next transport strategy. The exact recording and terminal result are matched; see `docs/REPORT-COPY.md`. This is within-episode experience use, not demonstrated cross-episode learning.
 - Case-study teacup, glasses, frame and gear videos are selected qualitative comparisons. Do not infer recovery frequency or benchmark success from visual local score labels.
 - Frame/gear paired ICL studies each have four fresh paired seeds. Dishwasher has five historical comparisons with channel/date differences. These are separate from both the main cohort and the selected qualitative case videos.
 
@@ -38,7 +42,7 @@ Four provided videos are included: Astra, π₀.₅, OpenWAM recording 1, OpenWA
 
 ## Pending author edits
 
-The author explicitly said the previous Implications claims were not all correct and will provide revisions. This version replaces speculative prescriptions with a short descriptive discussion; do not treat the final implications as approved. POC checkpoint labels and final analysis, arXiv URL, and publication copy remain author-owned open items.
+The author explicitly said the previous Implications claims were not all correct and will provide revisions, then requested analysis of what the three research questions imply. The current discussion therefore poses concrete, evidence-grounded research directions rather than claiming evaluated improvements; do not treat final implications as approved. POC checkpoint labels and final analysis, arXiv URL, and publication copy remain author-owned open items.
 
 ## Assets and backups
 

@@ -21,6 +21,9 @@ for(const demo of demos){
 }
 const astra=figures.models.find(m=>m.id==='Astra (ICL)');assert.equal(astra.sr,.4673);assert.equal(astra.score,.6537);
 for(const name of ['astra-poc','pi05-poc','openwam-poc-1','openwam-poc-2'])assert.ok(fs.statSync(path.join(root,'media/poc',name+'.mp4')).size>10000);
-for(const name of ['collect_coffee_beans_013-web','fruit_015-web'])assert.ok(fs.statSync(path.join(root,'media/cases',name+'.mp4')).size>10000);
+for(const name of ['collect_coffee_beans_013-web','fruit_015-web','apple_to_fruit_bowl_006-web'])assert.ok(fs.statSync(path.join(root,'media/cases',name+'.mp4')).size>10000);
+const apple=read('apple-recovery-evidence'),appleEpisode=episodes.find(e=>e.task===apple.task&&e.seed===apple.seed);
+assert.equal(appleEpisode.sr,apple.server_result.sr);assert.equal(appleEpisode.score,apple.server_result.score);
+assert.deepEqual(apple.actions.map(a=>a.call),['call_00010','call_00011','call_00017']);
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8');assert.ok(html.indexOf('id="overall"')<html.indexOf('id="setup"'));assert.ok(html.includes('https://internrobotics.shlab.org.cn/eval/landing-page'));
-console.log('Validated: 8 systems, 26 tasks, 510 unique outcomes, 27 main demos, 4 POC videos, 2 behavior videos; headline aggregates and selected-episode labels match source data.');
+console.log('Validated: 8 systems, 26 tasks, 510 unique outcomes, 27 main demos, 4 POC videos, 3 behavior videos; headline aggregates and selected-episode labels match source data.');

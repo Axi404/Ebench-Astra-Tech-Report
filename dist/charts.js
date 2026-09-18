@@ -1,8 +1,8 @@
 const chartModels = [
  ['Astra (ICL)','Astra · ICL','#3456ef'],['OpenWAM-Alpha','OpenWAM-α','#26394c'],
- ['Qwen-RobotManip','Qwen-RobotManip','#b3905c'],['Pi05','π₀.₅','#5b8e82'],
- ['InternVLA-A1.5','InternVLA-A1.5','#937ca5'],['Pi0','π₀','#8b8f55'],
- ['GigaBrain-0.7','GigaBrain-0.7','#b97873'],['FastWAM','Fast-WAM','#7b9bac']
+ ['Qwen-RobotManip','Qwen-RobotManip','#8098f2'],['Pi05','π₀.₅','#7374b8'],
+ ['InternVLA-A1.5','InternVLA-A1.5','#9b8ed0'],['Pi0','π₀','#9aa8bd'],
+ ['GigaBrain-0.7','GigaBrain-0.7','#bac4d8'],['FastWAM','Fast-WAM','#7e9fbd']
 ];
 const chartSpecs = {
  overall:{title:'Overall benchmark performance',groups:[['All tasks',null]],note:'Equal-weight means over 26 tasks; 510 episodes per system.'},

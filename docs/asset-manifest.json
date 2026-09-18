@@ -1,8 +1,13 @@
 {
   "version": "2026-09-18",
-  "media_files": 46,
-  "total_bytes": 440200855,
+  "media_files": 47,
+  "total_bytes": 444225910,
   "files": [
+    {
+      "path": "dist/media/cases/apple_to_fruit_bowl_006-web.mp4",
+      "bytes": 4025055,
+      "sha256": "7ec89f51f119f4913f5bd790659ba3f71088a540b2c8f80eb4b2c0ce43ed2d4e"
+    },
     {
       "path": "dist/media/cases/astra-glasses.mp4",
       "bytes": 8161279,
