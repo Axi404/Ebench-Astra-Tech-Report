@@ -1,0 +1,13 @@
+analysis/
+*.zip
+.sites-runtime/
+node_modules/
+.env*
+
+backups/
+
+.openai/
+
+# Raw HEVC source excerpts; browser-compatible derivatives are versioned.
+dist/media/cases/collect_coffee_beans_013.mp4
+dist/media/cases/fruit_015.mp4

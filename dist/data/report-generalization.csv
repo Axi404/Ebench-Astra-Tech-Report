@@ -1,0 +1,33 @@
+﻿System,Condition,Tasks,Episodes,SR (%),Score
+OpenWAM-Alpha,Object,24,120,52.50,0.6571
+OpenWAM-Alpha,Background,26,130,61.54,0.7668
+OpenWAM-Alpha,Instruction,26,130,60.00,0.7509
+OpenWAM-Alpha,Mixed,26,130,44.62,0.6039
+Astra (ICL),Object,24,120,44.17,0.6482
+Astra (ICL),Background,26,130,50.77,0.6924
+Astra (ICL),Instruction,26,130,44.62,0.6200
+Astra (ICL),Mixed,26,130,46.15,0.6426
+Qwen-RobotManip,Object,24,120,40.83,0.5647
+Qwen-RobotManip,Background,26,130,55.38,0.7221
+Qwen-RobotManip,Instruction,26,130,51.54,0.6550
+Qwen-RobotManip,Mixed,26,130,33.85,0.4853
+π₀.₅,Object,24,120,41.67,0.5343
+π₀.₅,Background,26,130,42.31,0.5752
+π₀.₅,Instruction,26,130,46.15,0.5972
+π₀.₅,Mixed,26,130,34.62,0.4565
+InternVLA-A1.5,Object,24,120,33.33,0.4331
+InternVLA-A1.5,Background,26,130,38.46,0.5152
+InternVLA-A1.5,Instruction,26,130,33.85,0.4625
+InternVLA-A1.5,Mixed,26,130,30.00,0.4342
+π₀,Object,24,120,28.33,0.4216
+π₀,Background,26,130,42.31,0.5472
+π₀,Instruction,26,130,39.23,0.5079
+π₀,Mixed,26,130,24.62,0.3944
+GigaBrain-0.7,Object,24,120,27.50,0.4050
+GigaBrain-0.7,Background,26,130,42.31,0.5405
+GigaBrain-0.7,Instruction,26,130,36.92,0.5018
+GigaBrain-0.7,Mixed,26,130,25.38,0.3885
+FastWAM,Object,24,120,21.67,0.2946
+FastWAM,Background,26,130,32.31,0.4404
+FastWAM,Instruction,26,130,26.92,0.3944
+FastWAM,Mixed,26,130,21.54,0.3298

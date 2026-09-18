@@ -1,0 +1,3062 @@
+[
+  {
+    "task": "apple_from_shelf",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_from_shelf",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "apple_to_fruit_bowl",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bookmark_on_book",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bottle",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bottle",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.08333
+  },
+  {
+    "task": "bottle",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.16667
+  },
+  {
+    "task": "bottle",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "bottle",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.08333
+  },
+  {
+    "task": "bottle",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bottle",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bottle",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bottle",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.16667
+  },
+  {
+    "task": "bottle",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.16667
+  },
+  {
+    "task": "bottle",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "bottle",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.16667
+  },
+  {
+    "task": "bottle",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bottle",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.25
+  },
+  {
+    "task": "bottle",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "bottle",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.08333
+  },
+  {
+    "task": "bottle",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.16667
+  },
+  {
+    "task": "bottle",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bottle",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.25
+  },
+  {
+    "task": "bottle",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.41667
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "bowl_to_plate",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.14286
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.35714
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.35714
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.35714
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.35714
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.42857
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.35714
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.07143
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.92857
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.07143
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "collect_coffee_beans",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.28571
+  },
+  {
+    "task": "detergent",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "detergent",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "detergent",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "detergent",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "detergent",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "detergent",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "detergent",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "detergent",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "detergent",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "detergent",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "dish",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "dish",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "dish",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.6
+  },
+  {
+    "task": "dish",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.6
+  },
+  {
+    "task": "dish",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.6
+  },
+  {
+    "task": "dish",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "dish",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.4
+  },
+  {
+    "task": "dish",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.2
+  },
+  {
+    "task": "dish",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dish",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "dish",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.6
+  },
+  {
+    "task": "dish",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dishwasher",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.6666650000000001
+  },
+  {
+    "task": "dishwasher",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "dishwasher",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.6666650000000001
+  },
+  {
+    "task": "dishwasher",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "dishwasher",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.8333349999999999
+  },
+  {
+    "task": "dishwasher",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "dishwasher",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.1
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.6
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.2
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.4
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "flip_cup_collect_cookies",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.333335
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.333335
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.333335
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "frame_against_pen_holder",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "fruit",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "fruit",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "fruit",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "fruit",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.6
+  },
+  {
+    "task": "fruit",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "fruit",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.8
+  },
+  {
+    "task": "fruit",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "install_gear",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "install_gear",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "install_gear",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.75
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.25
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.75
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.75
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "make_sandwich",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "microwave",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.8333349999999999
+  },
+  {
+    "task": "microwave",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.8333349999999999
+  },
+  {
+    "task": "microwave",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.8333349999999999
+  },
+  {
+    "task": "microwave",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "microwave",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "peg_in_hole",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "pen",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "pen",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "pen",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "pen",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "pen",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "pen",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "pen",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "pen",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "pen",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "pen",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "pen",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "perfume_to_cosmetics_rack",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "put_glass_in_glassbox",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "remote_to_holder",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "salt_to_spice_rack",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "shop",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "shop",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.25
+  },
+  {
+    "task": "shop",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "shop",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "shop",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "shop",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "shop",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "shop",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "shop",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "shop",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.83333
+  },
+  {
+    "task": "shop",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "shop",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.33333
+  },
+  {
+    "task": "shop",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.83333
+  },
+  {
+    "task": "shop",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "shop",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "shop",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.66667
+  },
+  {
+    "task": "shop",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.25
+  },
+  {
+    "task": "shop",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.83333
+  },
+  {
+    "task": "shop",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.91667
+  },
+  {
+    "task": "shop",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.83333
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "009",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "017",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "soap_to_dish",
+    "seed": "019",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "002",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "003",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "004",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "005",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "006",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "007",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "008",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "011",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "012",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "014",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "015",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "016",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "018",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "teacup_to_saucer_teapot_to_tray",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "000",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "001",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "010",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "013",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "tighten_nut",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "000",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "001",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "002",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "003",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "004",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "005",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "006",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "007",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "008",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "009",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "010",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "011",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "012",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "013",
+    "sr": 1.0,
+    "score": 1.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "014",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "015",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "016",
+    "sr": 0.0,
+    "score": 0.5
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "017",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "018",
+    "sr": 0.0,
+    "score": 0.0
+  },
+  {
+    "task": "utensils_to_holder",
+    "seed": "019",
+    "sr": 0.0,
+    "score": 0.0
+  }
+]

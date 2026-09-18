@@ -1,0 +1,11 @@
+{
+  "name": "ebench-astra-report",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node --check dist/app.js && node --check dist/charts.js && node --check dist/showcase.js && node --check dist/research.js && node --check scripts/serve.mjs",
+    "validate": "node scripts/validate-data.mjs"
+  }
+}

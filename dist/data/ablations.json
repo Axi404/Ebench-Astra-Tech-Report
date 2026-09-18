@@ -1,0 +1,187 @@
+{
+  "groups": [
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "pairs": 4,
+      "zero_shot_successes": 0.0,
+      "icl_successes": 2.0,
+      "zero_shot_score": 0.58333625,
+      "icl_score": 0.6666675,
+      "score_better": 2,
+      "score_worse": 2,
+      "score_tied": 0,
+      "protocol": "Fresh runs for both conditions; matched task/seed, prompts and resource settings.",
+      "scope": "Exploratory targeted replication on two selected tasks; four paired seeds per task."
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "pairs": 4,
+      "zero_shot_successes": 0.0,
+      "icl_successes": 1.0,
+      "zero_shot_score": 0.125,
+      "icl_score": 0.375,
+      "score_better": 2,
+      "score_worse": 1,
+      "score_tied": 1,
+      "protocol": "Fresh runs for both conditions; matched task/seed, prompts and resource settings.",
+      "scope": "Exploratory targeted replication on two selected tasks; four paired seeds per task."
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "pairs": 5,
+      "zero_shot_successes": 0.0,
+      "icl_successes": 0.0,
+      "zero_shot_score": 0.2,
+      "icl_score": 0.5,
+      "score_better": 3,
+      "score_worse": 0,
+      "score_tied": 2,
+      "protocol": "Five newly completed zero-shot episodes compared with the same seeds in the historical ICL cohort.",
+      "scope": "Inference channels and run dates differ; historical ICL includes continuations/terminal holding."
+    }
+  ],
+  "pairs": [
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "000",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.66667,
+      "icl_score": 0.333335,
+      "delta_score": -0.333335
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "001",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.66667,
+      "icl_score": 0.333335,
+      "delta_score": -0.333335
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "002",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 1.0,
+      "zero_shot_score": 0.333335,
+      "icl_score": 1.0,
+      "delta_score": 0.6666650000000001
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "003",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 1.0,
+      "zero_shot_score": 0.66667,
+      "icl_score": 1.0,
+      "delta_score": 0.33333
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "000",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "001",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 1.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 1.0,
+      "delta_score": 1.0
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "002",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.5,
+      "icl_score": 0.0,
+      "delta_score": -0.5
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "003",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.0,
+      "delta_score": 0.0
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "000",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.5,
+      "icl_score": 0.5,
+      "delta_score": 0.0
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "001",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.5,
+      "icl_score": 0.5,
+      "delta_score": 0.0
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "002",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "003",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "004",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    }
+  ],
+  "new_terminal_episodes": 21,
+  "fresh_matched_pairs": 8,
+  "historical_comparator_pairs": 5,
+  "dishwasher_full_icl_cohort": {
+    "n": 20,
+    "successes": 1,
+    "score": 0.53333325
+  },
+  "main_cohort_unchanged": true
+}

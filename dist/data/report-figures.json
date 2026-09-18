@@ -1,0 +1,1982 @@
+{
+  "version": "2026-09-18",
+  "main_tasks": 26,
+  "main_episodes": 510,
+  "main_successes": 237,
+  "models": [
+    {
+      "id": "OpenWAM-Alpha",
+      "label": "OpenWAM-Alpha",
+      "sr": 0.5532,
+      "score": 0.7005,
+      "groups": {
+        "Low": {
+          "sr": 0.6738,
+          "score": 0.769,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.4562,
+          "score": 0.666,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.325,
+          "score": 0.5304,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.6018,
+          "score": 0.7397,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.4214,
+          "score": 0.5943,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.5675,
+          "score": 0.6687,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.5143,
+          "score": 0.7872,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.525,
+          "score": 0.6571,
+          "n": 120,
+          "tasks": 24,
+          "successes": 63
+        },
+        "background": {
+          "sr": 0.6154,
+          "score": 0.7668,
+          "n": 130,
+          "tasks": 26,
+          "successes": 80
+        },
+        "instruction": {
+          "sr": 0.6,
+          "score": 0.7509,
+          "n": 130,
+          "tasks": 26,
+          "successes": 78
+        },
+        "mix": {
+          "sr": 0.4462,
+          "score": 0.6039,
+          "n": 130,
+          "tasks": 26,
+          "successes": 58
+        }
+      }
+    },
+    {
+      "id": "Astra (ICL)",
+      "label": "Astra (ICL)",
+      "sr": 0.4673,
+      "score": 0.6537,
+      "groups": {
+        "Low": {
+          "sr": 0.606,
+          "score": 0.7549,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.4021,
+          "score": 0.6052,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.1125,
+          "score": 0.3964,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.5658,
+          "score": 0.73,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.2,
+          "score": 0.4465,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.536,
+          "score": 0.6737,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.281,
+          "score": 0.5994,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.4417,
+          "score": 0.6482,
+          "n": 120,
+          "tasks": 24,
+          "successes": 53
+        },
+        "background": {
+          "sr": 0.5077,
+          "score": 0.6924,
+          "n": 130,
+          "tasks": 26,
+          "successes": 66
+        },
+        "instruction": {
+          "sr": 0.4462,
+          "score": 0.62,
+          "n": 130,
+          "tasks": 26,
+          "successes": 58
+        },
+        "mix": {
+          "sr": 0.4615,
+          "score": 0.6426,
+          "n": 130,
+          "tasks": 26,
+          "successes": 60
+        }
+      }
+    },
+    {
+      "id": "Qwen-RobotManip",
+      "label": "Qwen-RobotManip",
+      "sr": 0.4558,
+      "score": 0.6081,
+      "groups": {
+        "Low": {
+          "sr": 0.506,
+          "score": 0.6055,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.5021,
+          "score": 0.6688,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.1875,
+          "score": 0.4964,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.4395,
+          "score": 0.5759,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.5,
+          "score": 0.696,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.5018,
+          "score": 0.6053,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.331,
+          "score": 0.6162,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.4083,
+          "score": 0.5647,
+          "n": 120,
+          "tasks": 24,
+          "successes": 49
+        },
+        "background": {
+          "sr": 0.5538,
+          "score": 0.7221,
+          "n": 130,
+          "tasks": 26,
+          "successes": 72
+        },
+        "instruction": {
+          "sr": 0.5154,
+          "score": 0.655,
+          "n": 130,
+          "tasks": 26,
+          "successes": 67
+        },
+        "mix": {
+          "sr": 0.3385,
+          "score": 0.4853,
+          "n": 130,
+          "tasks": 26,
+          "successes": 44
+        }
+      }
+    },
+    {
+      "id": "Pi05",
+      "label": "π₀.₅",
+      "sr": 0.4141,
+      "score": 0.5441,
+      "groups": {
+        "Low": {
+          "sr": 0.4964,
+          "score": 0.5966,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.3896,
+          "score": 0.5396,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.175,
+          "score": 0.3698,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.4588,
+          "score": 0.5781,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.2929,
+          "score": 0.4519,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.4263,
+          "score": 0.5152,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.381,
+          "score": 0.6228,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.4167,
+          "score": 0.5343,
+          "n": 120,
+          "tasks": 24,
+          "successes": 50
+        },
+        "background": {
+          "sr": 0.4231,
+          "score": 0.5752,
+          "n": 130,
+          "tasks": 26,
+          "successes": 55
+        },
+        "instruction": {
+          "sr": 0.4615,
+          "score": 0.5972,
+          "n": 130,
+          "tasks": 26,
+          "successes": 60
+        },
+        "mix": {
+          "sr": 0.3462,
+          "score": 0.4565,
+          "n": 130,
+          "tasks": 26,
+          "successes": 45
+        }
+      }
+    },
+    {
+      "id": "InternVLA-A1.5",
+      "label": "InternVLA-A1.5",
+      "sr": 0.3417,
+      "score": 0.4684,
+      "groups": {
+        "Low": {
+          "sr": 0.4464,
+          "score": 0.5361,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.2604,
+          "score": 0.4519,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.1375,
+          "score": 0.2642,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.4228,
+          "score": 0.5619,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.1214,
+          "score": 0.2146,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.3395,
+          "score": 0.4175,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.3476,
+          "score": 0.6064,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.3333,
+          "score": 0.4331,
+          "n": 120,
+          "tasks": 24,
+          "successes": 40
+        },
+        "background": {
+          "sr": 0.3846,
+          "score": 0.5152,
+          "n": 130,
+          "tasks": 26,
+          "successes": 50
+        },
+        "instruction": {
+          "sr": 0.3385,
+          "score": 0.4625,
+          "n": 130,
+          "tasks": 26,
+          "successes": 44
+        },
+        "mix": {
+          "sr": 0.3,
+          "score": 0.4342,
+          "n": 130,
+          "tasks": 26,
+          "successes": 39
+        }
+      }
+    },
+    {
+      "id": "Pi0",
+      "label": "π₀",
+      "sr": 0.3372,
+      "score": 0.4748,
+      "groups": {
+        "Low": {
+          "sr": 0.3905,
+          "score": 0.4915,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.3,
+          "score": 0.4607,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.225,
+          "score": 0.4437,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.3404,
+          "score": 0.4688,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.3286,
+          "score": 0.4907,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.364,
+          "score": 0.4629,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.2643,
+          "score": 0.5066,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.2833,
+          "score": 0.4216,
+          "n": 120,
+          "tasks": 24,
+          "successes": 34
+        },
+        "background": {
+          "sr": 0.4231,
+          "score": 0.5472,
+          "n": 130,
+          "tasks": 26,
+          "successes": 55
+        },
+        "instruction": {
+          "sr": 0.3923,
+          "score": 0.5079,
+          "n": 130,
+          "tasks": 26,
+          "successes": 51
+        },
+        "mix": {
+          "sr": 0.2462,
+          "score": 0.3944,
+          "n": 130,
+          "tasks": 26,
+          "successes": 32
+        }
+      }
+    },
+    {
+      "id": "GigaBrain-0.7",
+      "label": "GigaBrain-0.7",
+      "sr": 0.3327,
+      "score": 0.4603,
+      "groups": {
+        "Low": {
+          "sr": 0.3536,
+          "score": 0.4478,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.3375,
+          "score": 0.4484,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.25,
+          "score": 0.5277,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.3158,
+          "score": 0.4133,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.3786,
+          "score": 0.5879,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.3605,
+          "score": 0.4539,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.2571,
+          "score": 0.4778,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.275,
+          "score": 0.405,
+          "n": 120,
+          "tasks": 24,
+          "successes": 33
+        },
+        "background": {
+          "sr": 0.4231,
+          "score": 0.5405,
+          "n": 130,
+          "tasks": 26,
+          "successes": 55
+        },
+        "instruction": {
+          "sr": 0.3692,
+          "score": 0.5018,
+          "n": 130,
+          "tasks": 26,
+          "successes": 48
+        },
+        "mix": {
+          "sr": 0.2538,
+          "score": 0.3885,
+          "n": 130,
+          "tasks": 26,
+          "successes": 33
+        }
+      }
+    },
+    {
+      "id": "FastWAM",
+      "label": "FastWAM",
+      "sr": 0.2564,
+      "score": 0.3712,
+      "groups": {
+        "Low": {
+          "sr": 0.3571,
+          "score": 0.4573,
+          "tasks": 14,
+          "episodes": 275
+        },
+        "Medium": {
+          "sr": 0.1896,
+          "score": 0.3276,
+          "tasks": 8,
+          "episodes": 155
+        },
+        "High": {
+          "sr": 0.0375,
+          "score": 0.1562,
+          "tasks": 4,
+          "episodes": 80
+        },
+        "Mobile": {
+          "sr": 0.3404,
+          "score": 0.4605,
+          "tasks": 19,
+          "episodes": 370
+        },
+        "Fixed": {
+          "sr": 0.0286,
+          "score": 0.1285,
+          "tasks": 7,
+          "episodes": 140
+        },
+        "Short Horizon": {
+          "sr": 0.2711,
+          "score": 0.3523,
+          "tasks": 19,
+          "episodes": 375
+        },
+        "Long Horizon": {
+          "sr": 0.2167,
+          "score": 0.4221,
+          "tasks": 7,
+          "episodes": 135
+        }
+      },
+      "generalization": {
+        "object": {
+          "sr": 0.2167,
+          "score": 0.2946,
+          "n": 120,
+          "tasks": 24,
+          "successes": 26
+        },
+        "background": {
+          "sr": 0.3231,
+          "score": 0.4404,
+          "n": 130,
+          "tasks": 26,
+          "successes": 42
+        },
+        "instruction": {
+          "sr": 0.2692,
+          "score": 0.3944,
+          "n": 130,
+          "tasks": 26,
+          "successes": 35
+        },
+        "mix": {
+          "sr": 0.2154,
+          "score": 0.3298,
+          "n": 130,
+          "tasks": 26,
+          "successes": 28
+        }
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "Contact and alignment requirements",
+      "groups": [
+        {
+          "key": "Low",
+          "label": "Low",
+          "tasks": 14
+        },
+        {
+          "key": "Medium",
+          "label": "Medium",
+          "tasks": 8
+        },
+        {
+          "key": "High",
+          "label": "High",
+          "tasks": 4
+        }
+      ]
+    },
+    {
+      "id": "mobility",
+      "label": "Mobility",
+      "description": "Mobile versus fixed-base tasks",
+      "groups": [
+        {
+          "key": "Mobile",
+          "label": "Mobile",
+          "tasks": 19
+        },
+        {
+          "key": "Fixed",
+          "label": "Fixed",
+          "tasks": 7
+        }
+      ]
+    },
+    {
+      "id": "horizon",
+      "label": "Horizon",
+      "description": "Short versus long task sequences",
+      "groups": [
+        {
+          "key": "Short Horizon",
+          "label": "Short",
+          "tasks": 19
+        },
+        {
+          "key": "Long Horizon",
+          "label": "Long",
+          "tasks": 7
+        }
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "task": "apple_from_shelf",
+      "label": "Apple from shelf",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.7,
+          "score": 0.7
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.65,
+          "score": 0.65
+        },
+        "Pi05": {
+          "sr": 0.75,
+          "score": 0.75
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.35,
+          "score": 0.35
+        },
+        "Pi0": {
+          "sr": 0.4,
+          "score": 0.4
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.55,
+          "score": 0.55
+        },
+        "FastWAM": {
+          "sr": 0.4,
+          "score": 0.4
+        },
+        "Astra (ICL)": {
+          "sr": 0.7,
+          "score": 0.7
+        }
+      }
+    },
+    {
+      "task": "apple_to_fruit_bowl",
+      "label": "Apple to fruit bowl",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.95,
+          "score": 0.95
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.5,
+          "score": 0.5
+        },
+        "Pi05": {
+          "sr": 0.25,
+          "score": 0.25
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.2,
+          "score": 0.2
+        },
+        "Pi0": {
+          "sr": 0.1,
+          "score": 0.1
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.2,
+          "score": 0.2
+        },
+        "FastWAM": {
+          "sr": 0.7,
+          "score": 0.7
+        },
+        "Astra (ICL)": {
+          "sr": 0.9,
+          "score": 0.9
+        }
+      }
+    },
+    {
+      "task": "bookmark_on_book",
+      "label": "Bookmark on book",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.35,
+          "score": 0.35
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.4,
+          "score": 0.4
+        },
+        "Pi05": {
+          "sr": 0.55,
+          "score": 0.55
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.45,
+          "score": 0.45
+        },
+        "Pi0": {
+          "sr": 0.25,
+          "score": 0.25
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.3,
+          "score": 0.3
+        },
+        "FastWAM": {
+          "sr": 0.3,
+          "score": 0.3
+        },
+        "Astra (ICL)": {
+          "sr": 0.9,
+          "score": 0.9
+        }
+      }
+    },
+    {
+      "task": "bottle",
+      "label": "Bottle",
+      "precision": "Medium",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0,
+          "score": 0.317
+        },
+        "Qwen-RobotManip": {
+          "sr": 0,
+          "score": 0.1705
+        },
+        "Pi05": {
+          "sr": 0,
+          "score": 0.049
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0.029
+        },
+        "Pi0": {
+          "sr": 0,
+          "score": 0.0245
+        },
+        "GigaBrain-0.7": {
+          "sr": 0,
+          "score": 0.0415
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.032
+        },
+        "Astra (ICL)": {
+          "sr": 0.0,
+          "score": 0.166667
+        }
+      }
+    },
+    {
+      "task": "bowl_to_plate",
+      "label": "Bowl to plate",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.85,
+          "score": 0.85
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.75,
+          "score": 0.75
+        },
+        "Pi05": {
+          "sr": 0.85,
+          "score": 0.85
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.6,
+          "score": 0.6
+        },
+        "Pi0": {
+          "sr": 0.6,
+          "score": 0.6
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.65,
+          "score": 0.65
+        },
+        "FastWAM": {
+          "sr": 0.75,
+          "score": 0.75
+        },
+        "Astra (ICL)": {
+          "sr": 0.75,
+          "score": 0.75
+        }
+      }
+    },
+    {
+      "task": "collect_coffee_beans",
+      "label": "Collect coffee beans",
+      "precision": "High",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.2,
+          "score": 0.3965
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.05,
+          "score": 0.5105
+        },
+        "Pi05": {
+          "sr": 0.3,
+          "score": 0.554
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0.157
+        },
+        "Pi0": {
+          "sr": 0.2,
+          "score": 0.35
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.5,
+          "score": 0.711
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0
+        },
+        "Astra (ICL)": {
+          "sr": 0.0,
+          "score": 0.2357135
+        }
+      }
+    },
+    {
+      "task": "detergent",
+      "label": "Detergent",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.95,
+          "score": 0.9835
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.85,
+          "score": 0.9335
+        },
+        "Pi05": {
+          "sr": 1,
+          "score": 1
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.95,
+          "score": 0.9665
+        },
+        "Pi0": {
+          "sr": 0.75,
+          "score": 0.833
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.95,
+          "score": 0.9835
+        },
+        "FastWAM": {
+          "sr": 0.35,
+          "score": 0.6665
+        },
+        "Astra (ICL)": {
+          "sr": 0.55,
+          "score": 0.8000005
+        }
+      }
+    },
+    {
+      "task": "dish",
+      "label": "Dish",
+      "precision": "Medium",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.4,
+          "score": 0.88
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.2,
+          "score": 0.76
+        },
+        "Pi05": {
+          "sr": 0.25,
+          "score": 0.7000000000000001
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.2,
+          "score": 0.8
+        },
+        "Pi0": {
+          "sr": 0,
+          "score": 0.45
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.05,
+          "score": 0.3
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.44
+        },
+        "Astra (ICL)": {
+          "sr": 0.5,
+          "score": 0.81
+        }
+      }
+    },
+    {
+      "task": "dishwasher",
+      "label": "Dishwasher",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.9,
+          "score": 0.95
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.15,
+          "score": 0.2665
+        },
+        "Pi05": {
+          "sr": 0.65,
+          "score": 0.7335
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.9,
+          "score": 0.9
+        },
+        "Pi0": {
+          "sr": 0.9,
+          "score": 0.95
+        },
+        "GigaBrain-0.7": {
+          "sr": 0,
+          "score": 0.5
+        },
+        "FastWAM": {
+          "sr": 0.7,
+          "score": 0.8744999999999999
+        },
+        "Astra (ICL)": {
+          "sr": 0.05,
+          "score": 0.53333325
+        }
+      }
+    },
+    {
+      "task": "flip_cup_collect_cookies",
+      "label": "Flip cup & collect cookies",
+      "precision": "Medium",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.4,
+          "score": 0.59
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.9,
+          "score": 0.97
+        },
+        "Pi05": {
+          "sr": 0.25,
+          "score": 0.435
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.3,
+          "score": 0.445
+        },
+        "Pi0": {
+          "sr": 0.3,
+          "score": 0.345
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.4,
+          "score": 0.605
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.075
+        },
+        "Astra (ICL)": {
+          "sr": 0.1,
+          "score": 0.44
+        }
+      }
+    },
+    {
+      "task": "frame_against_pen_holder",
+      "label": "Frame placement",
+      "precision": "Low",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.5,
+          "score": 0.599
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.95,
+          "score": 0.9665
+        },
+        "Pi05": {
+          "sr": 0.45,
+          "score": 0.483
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0
+        },
+        "Pi0": {
+          "sr": 0.25,
+          "score": 0.3985
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.7,
+          "score": 0.7165
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.1
+        },
+        "Astra (ICL)": {
+          "sr": 0.65,
+          "score": 0.80000075
+        }
+      }
+    },
+    {
+      "task": "fruit",
+      "label": "Fruit",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.55,
+          "score": 0.76
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.45,
+          "score": 0.68
+        },
+        "Pi05": {
+          "sr": 0.1,
+          "score": 0.38
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.05,
+          "score": 0.6
+        },
+        "Pi0": {
+          "sr": 0,
+          "score": 0.1
+        },
+        "GigaBrain-0.7": {
+          "sr": 0,
+          "score": 0.27
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.05
+        },
+        "Astra (ICL)": {
+          "sr": 0.4,
+          "score": 0.59
+        }
+      }
+    },
+    {
+      "task": "install_gear",
+      "label": "Gear installation",
+      "precision": "High",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.4,
+          "score": 0.5
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.5,
+          "score": 0.575
+        },
+        "Pi05": {
+          "sr": 0.1,
+          "score": 0.125
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.15,
+          "score": 0.2
+        },
+        "Pi0": {
+          "sr": 0.3,
+          "score": 0.375
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.2,
+          "score": 0.275
+        },
+        "FastWAM": {
+          "sr": 0.15,
+          "score": 0.15
+        },
+        "Astra (ICL)": {
+          "sr": 0.15,
+          "score": 0.2
+        }
+      }
+    },
+    {
+      "task": "make_sandwich",
+      "label": "Make sandwich",
+      "precision": "Medium",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 15,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.8,
+          "score": 0.95
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.6666666666666666,
+          "score": 0.9
+        },
+        "Pi05": {
+          "sr": 0.6666666666666666,
+          "score": 0.9166666666666666
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.3333333333333333,
+          "score": 0.7833333333333333
+        },
+        "Pi0": {
+          "sr": 0.2,
+          "score": 0.75
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.8,
+          "score": 0.95
+        },
+        "FastWAM": {
+          "sr": 0.4666666666666667,
+          "score": 0.8
+        },
+        "Astra (ICL)": {
+          "sr": 0.4666666666666667,
+          "score": 0.7
+        }
+      }
+    },
+    {
+      "task": "microwave",
+      "label": "Microwave",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 15,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.9333333333333333,
+          "score": 0.978
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.3333333333333333,
+          "score": 0.378
+        },
+        "Pi05": {
+          "sr": 0.4,
+          "score": 0.5
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.6,
+          "score": 0.8233333333333334
+        },
+        "Pi0": {
+          "sr": 0.4666666666666667,
+          "score": 0.8113333333333334
+        },
+        "GigaBrain-0.7": {
+          "sr": 0,
+          "score": 0
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.44533333333333336
+        },
+        "Astra (ICL)": {
+          "sr": 0.7333333333333333,
+          "score": 0.9000003333333333
+        }
+      }
+    },
+    {
+      "task": "peg_in_hole",
+      "label": "Peg in hole",
+      "precision": "High",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.4,
+          "score": 0.6
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.1,
+          "score": 0.35
+        },
+        "Pi05": {
+          "sr": 0.1,
+          "score": 0.225
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0
+        },
+        "Pi0": {
+          "sr": 0.15,
+          "score": 0.425
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.15,
+          "score": 0.55
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0
+        },
+        "Astra (ICL)": {
+          "sr": 0.2,
+          "score": 0.6
+        }
+      }
+    },
+    {
+      "task": "pen",
+      "label": "Pen",
+      "precision": "Medium",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.05,
+          "score": 0.3665
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.05,
+          "score": 0.25
+        },
+        "Pi05": {
+          "sr": 0,
+          "score": 0.05
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0.28300000000000003
+        },
+        "Pi0": {
+          "sr": 0,
+          "score": 0.0995
+        },
+        "GigaBrain-0.7": {
+          "sr": 0,
+          "score": 0.033
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.0495
+        },
+        "Astra (ICL)": {
+          "sr": 0.15,
+          "score": 0.550001
+        }
+      }
+    },
+    {
+      "task": "perfume_to_cosmetics_rack",
+      "label": "Perfume to cosmetics rack",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.75,
+          "score": 0.775
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.55,
+          "score": 0.6
+        },
+        "Pi05": {
+          "sr": 0.6,
+          "score": 0.675
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.45,
+          "score": 0.6
+        },
+        "Pi0": {
+          "sr": 0.25,
+          "score": 0.3
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.25,
+          "score": 0.325
+        },
+        "FastWAM": {
+          "sr": 0.5,
+          "score": 0.5
+        },
+        "Astra (ICL)": {
+          "sr": 0.75,
+          "score": 0.875
+        }
+      }
+    },
+    {
+      "task": "put_glass_in_glassbox",
+      "label": "Glass into glassbox",
+      "precision": "Medium",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.75,
+          "score": 0.8495
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.9,
+          "score": 0.95
+        },
+        "Pi05": {
+          "sr": 0.65,
+          "score": 0.7665
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0
+        },
+        "Pi0": {
+          "sr": 0.85,
+          "score": 0.9165
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.55,
+          "score": 0.683
+        },
+        "FastWAM": {
+          "sr": 0.05,
+          "score": 0.0995
+        },
+        "Astra (ICL)": {
+          "sr": 0.2,
+          "score": 0.299999
+        }
+      }
+    },
+    {
+      "task": "remote_to_holder",
+      "label": "Remote to holder",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.65,
+          "score": 0.65
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.65,
+          "score": 0.65
+        },
+        "Pi05": {
+          "sr": 0.6,
+          "score": 0.6
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.6,
+          "score": 0.6
+        },
+        "Pi0": {
+          "sr": 0.7,
+          "score": 0.7
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.5,
+          "score": 0.5
+        },
+        "FastWAM": {
+          "sr": 0.5,
+          "score": 0.5
+        },
+        "Astra (ICL)": {
+          "sr": 1.0,
+          "score": 1.0
+        }
+      }
+    },
+    {
+      "task": "salt_to_spice_rack",
+      "label": "Salt to spice rack",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 1,
+          "score": 1
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.7,
+          "score": 0.7
+        },
+        "Pi05": {
+          "sr": 0.7,
+          "score": 0.7
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.9,
+          "score": 0.9
+        },
+        "Pi0": {
+          "sr": 0.8,
+          "score": 0.8
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.75,
+          "score": 0.75
+        },
+        "FastWAM": {
+          "sr": 0.8,
+          "score": 0.8
+        },
+        "Astra (ICL)": {
+          "sr": 1.0,
+          "score": 1.0
+        }
+      }
+    },
+    {
+      "task": "shop",
+      "label": "Shop",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Long Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0,
+          "score": 0.67
+        },
+        "Qwen-RobotManip": {
+          "sr": 0,
+          "score": 0.603
+        },
+        "Pi05": {
+          "sr": 0,
+          "score": 0.5805
+        },
+        "InternVLA-A1.5": {
+          "sr": 0,
+          "score": 0.166
+        },
+        "Pi0": {
+          "sr": 0,
+          "score": 0.4385
+        },
+        "GigaBrain-0.7": {
+          "sr": 0,
+          "score": 0.2995
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.0915
+        },
+        "Astra (ICL)": {
+          "sr": 0.0,
+          "score": 0.5958335
+        }
+      }
+    },
+    {
+      "task": "soap_to_dish",
+      "label": "Soap to dish",
+      "precision": "Medium",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.85,
+          "score": 0.85
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.85,
+          "score": 0.85
+        },
+        "Pi05": {
+          "sr": 1,
+          "score": 1
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.95,
+          "score": 0.95
+        },
+        "Pi0": {
+          "sr": 0.95,
+          "score": 0.95
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.7,
+          "score": 0.7
+        },
+        "FastWAM": {
+          "sr": 0.9,
+          "score": 0.9
+        },
+        "Astra (ICL)": {
+          "sr": 0.95,
+          "score": 0.95
+        }
+      }
+    },
+    {
+      "task": "teacup_to_saucer_teapot_to_tray",
+      "label": "Teacup, saucer & teapot",
+      "precision": "Medium",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.4,
+          "score": 0.525
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.45,
+          "score": 0.5
+        },
+        "Pi05": {
+          "sr": 0.3,
+          "score": 0.4
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.3,
+          "score": 0.325
+        },
+        "Pi0": {
+          "sr": 0.1,
+          "score": 0.15
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.2,
+          "score": 0.275
+        },
+        "FastWAM": {
+          "sr": 0.1,
+          "score": 0.225
+        },
+        "Astra (ICL)": {
+          "sr": 0.85,
+          "score": 0.925
+        }
+      }
+    },
+    {
+      "task": "tighten_nut",
+      "label": "Tighten nut",
+      "precision": "High",
+      "mobility": "Fixed",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.3,
+          "score": 0.625
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.1,
+          "score": 0.55
+        },
+        "Pi05": {
+          "sr": 0.2,
+          "score": 0.575
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.4,
+          "score": 0.7
+        },
+        "Pi0": {
+          "sr": 0.25,
+          "score": 0.625
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.15,
+          "score": 0.575
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.475
+        },
+        "Astra (ICL)": {
+          "sr": 0.1,
+          "score": 0.55
+        }
+      }
+    },
+    {
+      "task": "utensils_to_holder",
+      "label": "Utensils to holder",
+      "precision": "Low",
+      "mobility": "Mobile",
+      "horizon": "Short Horizon",
+      "episodes": 20,
+      "models": {
+        "OpenWAM-Alpha": {
+          "sr": 0.35,
+          "score": 0.55
+        },
+        "Qwen-RobotManip": {
+          "sr": 0.15,
+          "score": 0.4
+        },
+        "Pi05": {
+          "sr": 0.05,
+          "score": 0.3
+        },
+        "InternVLA-A1.5": {
+          "sr": 0.2,
+          "score": 0.35
+        },
+        "Pi0": {
+          "sr": 0,
+          "score": 0.2
+        },
+        "GigaBrain-0.7": {
+          "sr": 0.1,
+          "score": 0.225
+        },
+        "FastWAM": {
+          "sr": 0,
+          "score": 0.225
+        },
+        "Astra (ICL)": {
+          "sr": 0.1,
+          "score": 0.225
+        }
+      }
+    }
+  ],
+  "ablations": [
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "pairs": 4,
+      "zero_shot_successes": 0,
+      "icl_successes": 2,
+      "zero_shot_score": 0.58333625,
+      "icl_score": 0.6666675,
+      "score_better": 2,
+      "score_worse": 2,
+      "score_tied": 0,
+      "protocol": "Fresh runs for both conditions; matched task/seed, prompts and resource settings.",
+      "scope": "Exploratory targeted replication on two selected tasks; four paired seeds per task.",
+      "label": "Frame placement",
+      "historical": false
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "pairs": 4,
+      "zero_shot_successes": 0,
+      "icl_successes": 1,
+      "zero_shot_score": 0.125,
+      "icl_score": 0.375,
+      "score_better": 2,
+      "score_worse": 1,
+      "score_tied": 1,
+      "protocol": "Fresh runs for both conditions; matched task/seed, prompts and resource settings.",
+      "scope": "Exploratory targeted replication on two selected tasks; four paired seeds per task.",
+      "label": "Gear installation",
+      "historical": false
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "pairs": 5,
+      "zero_shot_successes": 0,
+      "icl_successes": 0,
+      "zero_shot_score": 0.2,
+      "icl_score": 0.5,
+      "score_better": 3,
+      "score_worse": 0,
+      "score_tied": 2,
+      "protocol": "Five newly completed zero-shot episodes compared with the same seeds in the historical ICL cohort.",
+      "scope": "Inference channels and run dates differ; historical ICL includes continuations/terminal holding.",
+      "label": "Dishwasher",
+      "historical": true
+    }
+  ],
+  "pairs": [
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "000",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.66667,
+      "icl_score": 0.333335,
+      "delta_score": -0.333335
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "001",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.66667,
+      "icl_score": 0.333335,
+      "delta_score": -0.333335
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "002",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 1.0,
+      "zero_shot_score": 0.333335,
+      "icl_score": 1.0,
+      "delta_score": 0.6666650000000001
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "frame_against_pen_holder",
+      "seed": "003",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 1.0,
+      "zero_shot_score": 0.66667,
+      "icl_score": 1.0,
+      "delta_score": 0.33333
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "000",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "001",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 1.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 1.0,
+      "delta_score": 1.0
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "002",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.5,
+      "icl_score": 0.0,
+      "delta_score": -0.5
+    },
+    {
+      "experiment": "frame_gear_fresh",
+      "task": "install_gear",
+      "seed": "003",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.0,
+      "delta_score": 0.0
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "000",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.5,
+      "icl_score": 0.5,
+      "delta_score": 0.0
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "001",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.5,
+      "icl_score": 0.5,
+      "delta_score": 0.0
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "002",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "003",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    },
+    {
+      "experiment": "dishwasher_historical_comparator",
+      "task": "dishwasher",
+      "seed": "004",
+      "zero_shot_sr": 0.0,
+      "icl_sr": 0.0,
+      "zero_shot_score": 0.0,
+      "icl_score": 0.5,
+      "delta_score": 0.5
+    }
+  ]
+}

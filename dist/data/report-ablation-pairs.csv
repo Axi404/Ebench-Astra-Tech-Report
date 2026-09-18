@@ -1,0 +1,14 @@
+experiment,task,seed,zero_shot_sr,icl_sr,zero_shot_score,icl_score,delta_score
+frame_gear_fresh,frame_against_pen_holder,000,0.0,0.0,0.66667,0.333335,-0.333335
+frame_gear_fresh,frame_against_pen_holder,001,0.0,0.0,0.66667,0.333335,-0.333335
+frame_gear_fresh,frame_against_pen_holder,002,0.0,1.0,0.333335,1.0,0.6666650000000001
+frame_gear_fresh,frame_against_pen_holder,003,0.0,1.0,0.66667,1.0,0.33333
+frame_gear_fresh,install_gear,000,0.0,0.0,0.0,0.5,0.5
+frame_gear_fresh,install_gear,001,0.0,1.0,0.0,1.0,1.0
+frame_gear_fresh,install_gear,002,0.0,0.0,0.5,0.0,-0.5
+frame_gear_fresh,install_gear,003,0.0,0.0,0.0,0.0,0.0
+dishwasher_historical_comparator,dishwasher,000,0.0,0.0,0.5,0.5,0.0
+dishwasher_historical_comparator,dishwasher,001,0.0,0.0,0.5,0.5,0.0
+dishwasher_historical_comparator,dishwasher,002,0.0,0.0,0.0,0.5,0.5
+dishwasher_historical_comparator,dishwasher,003,0.0,0.0,0.0,0.5,0.5
+dishwasher_historical_comparator,dishwasher,004,0.0,0.0,0.0,0.5,0.5
